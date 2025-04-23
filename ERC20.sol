@@ -3,7 +3,7 @@
 // RCC Solidity by tian
 pragma solidity ^0.8.4;
 
-import "./IERC20.sol";
+//import "./IERC20.sol";
 
 contract ERC20 is IERC20 {
 

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.21;
 
-import "./IERC20.sol"; //import IERC20
+//import "./IERC20.sol"; //import IERC20
 
 /// @notice 向多个地址转账ERC20代币
 contract Airdrop {
